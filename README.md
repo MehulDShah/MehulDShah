@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MehulDShah
 - 👀 I’m interested in tech, design, photography
-- 🌱 I’m currently learning to understand how tech teams function
-- 💞️ I’m looking to collaborate on a pet app or a local insta page 
+- 🌱 Communications | UX Design
+- 💞️ Keen to learn about product teams and the product lifecycle 
 - 📫 You can reach me at @Mehul_Shah on Telegram
 
 <!---
